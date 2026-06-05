@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:8B0000,100:1a0000&height=180&section=header&text=Robin%20Singh&fontSize=55&fontColor=FFD700&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)%20%40%20Bennett&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,25:B91C1C,50:DC2626,75:F97316,100:FBBF24&height=180&section=header&text=Robin%20Singh&fontSize=55&fontColor=FBBF24&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)%20%40%20Bennett&descAlignY=55&descSize=16&descColor=FDE68A&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -142,6 +142,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,25:F97316,50:DC2626,75:B91C1C,100:7F1D1D&height=120&section=footer" width="100%"/>
 
 </div>
