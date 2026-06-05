@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Robin%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)%20%40%20Bennett&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:8B0000,100:1a0000&height=180&section=header&text=Robin%20Singh&fontSize=55&fontColor=FFD700&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)%20%40%20Bennett&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Full+Stack+%2B+NLP+Research+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Full+Stack+%2B+NLP+Research+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -75,14 +75,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robin-Singh-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Singh-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robin-Singh-01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Singh-01&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robin-Singh-01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robin-Singh-01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -142,6 +142,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 </div>
