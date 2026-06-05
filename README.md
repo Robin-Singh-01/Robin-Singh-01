@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Robin%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Robin%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20B.Tech%20CSE%20(AI)%20%40%20Bennett&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Full+Stack+%2B+Research+%F0%9F%94%AC;Bennett+University+%7C+CGPA+9.2+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Full+Stack+%2B+NLP+Research+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🧠 About Me
+
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d4099e1aaae408438c1/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-- 🎓 **B.Tech CSE (AI Specialization)** @ Bennett University — **CGPA: 9.2 / 10**
+- 🎓 **B.Tech CSE (AI Specialization)** @ Bennett University — **CGPA: 9.1 / 10**
 - 🤖 Passionate about **Deep Learning, NLP, Computer Vision & Agentic AI**
 - 🔬 Actively working on **NLP Research** — biomedical summarization with SLMs vs LLMs
 - 🏗️ Love building **end-to-end AI systems** from model to deployment
@@ -117,7 +118,11 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/Robin-Singh-01/Robin-Singh-01/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robin-Singh-01/Robin-Singh-01/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robin-Singh-01/Robin-Singh-01/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Robin-Singh-01/Robin-Singh-01/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
