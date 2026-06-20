@@ -20,7 +20,7 @@
 - 🤖 Passionate about **Deep Learning, NLP, Computer Vision & Agentic AI**
 - 🔬 Actively working on **NLP Research** — biomedical summarization with SLMs vs LLMs
 - 🏗️ Love building **end-to-end AI systems** from model to deployment
-- 🧑‍💼 **Batch Representative** for 120+ students at Bennett University
+- 🧑‍💼 **Batch Representative** for batch students at Bennett University
 - 📍 Based in **Delhi, India**
 - 📫 Reach me at **contact.robin.aidev@gmail.com**
 
