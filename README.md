@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d4099e1aaae408438c1/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-- 🎓 **B.Tech CSE (AI Specialization)** @ Bennett University — **CGPA: 9.1 / 10**
+- 🎓 **B.Tech CSE (AI Specialization)** @ Bennett University — **CGPA: 9.05 / 10**
 - 🤖 Passionate about **Deep Learning, NLP, Computer Vision & Agentic AI**
 - 🔬 Actively working on **NLP Research** — biomedical summarization with SLMs vs LLMs
 - 🏗️ Love building **end-to-end AI systems** from model to deployment
