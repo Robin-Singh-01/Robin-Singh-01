@@ -96,7 +96,7 @@
 |--------|-------------|------|
 | [🧬 DR Detection & Localisation](https://github.com/Robin-Singh-01/DR_Detection_And_Localisation_By_Classical_ML) | Classical ML pipeline to detect & localise diabetic retinopathy defects from the IDRiD dataset | `Python` `OpenCV` `scikit-learn` |
 | [🫁 Pneumonia Detection from X-Ray](https://github.com/Robin-Singh-01/Symptom-DiseasePredictor-with-PneumoniaDetection) | CNN achieving 98% train / 93% test accuracy on chest X-ray images | `TensorFlow` `Keras` `CNN` |
-| [🤖 Finvexis AI](https://github.com/Robin-Singh-01/Finvexis_AI) | Multi-agent AI platform with master orchestrator routing finance, HR & sales agents | `LLMs` `Python` `Agentic AI` |
+| [🤖 Finvexis AI](https://github.com/Robin-Singh-01/Finvexis) | Multi-agent AI platform with master orchestrator routing finance, HR & sales agents | `LLMs` `Python` `Agentic AI` |
 | [📋 Project Manager FullStack](https://github.com/Robin-Singh-01/ProjectManager_FULLSTACK) | MERN-stack team project management app with JWT auth, RBAC & nested task tracking | `React` `Node.js` `MongoDB` |
 | [🧠 Generative AI Labs](https://github.com/Robin-Singh-01/CSET419-Generative-AI) | Collection of GenAI experiments and implementations | `Python` `LLMs` `Jupyter` |
 | [🔐 Fullstack Auth](https://github.com/Robin-Singh-01/fullstack-auth) | Production-ready authentication system with JWT & role-based access control | `Node.js` `Express` `JWT` |
